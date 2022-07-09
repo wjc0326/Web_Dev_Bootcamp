@@ -33,3 +33,5 @@ https://wjc0326.github.io/Dicee_Game/
 Use advanced Javascript to build the Drum Kit website.
 
 When click on the button or press the corresponding key on the keyboard, the animation of the button will occur, and the corresponding sound will appear.
+
+https://wjc0326.github.io/Drum-Kit-web/
