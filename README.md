@@ -35,3 +35,14 @@ Use advanced Javascript to build the Drum Kit website.
 When click on the button or press the corresponding key on the keyboard, the animation of the button will occur, and the corresponding sound will appear.
 
 https://wjc0326.github.io/Drum-Kit-web/
+
+## ✨ jQuery-Simon Game:
+Use jQuery to build the Simon Game website, including
+* text
+* addClass & removeClass
+* addEventListener(click & keypress)
+* play audio
+* animate
+* setTimeout
+
+https://wjc0326.github.io/Simon_Game/
