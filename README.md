@@ -9,7 +9,7 @@ Add CSS to make the Personal Website more beautiful and readable.
 
 https://wjc0326.github.io/Personal-Website/
 
-## ✨Bootstrap-TinDog: 
+## ✨ Bootstrap-TinDog: 
 Use Bootstrap to build the TinDog website.
 Several modules are used in building this website, including 
 * row & col
@@ -48,11 +48,18 @@ Use jQuery to build the Simon Game website, including
 https://wjc0326.github.io/Simon_Game/
 
 ## ✨ node.js-Calculator:
-A simple website using node.js to calculate the sum of two ints and the BMI
+A simple website using node.js to calculate the sum of two ints and the BMI.
 * need to import express and body-parser package
 * download all the files in the "Calculator" folder and use "localhost:3000" to visit the website
 
 ## ✨ node.js-Weather Project:
-A simple website to ask for the user's input (the city name) and show the city's weather condition
+A simple website to ask for the user's input(the city name) and show the city's weather condition.
 * need to import express and body-parser package
 * download all the files in the "WeatherProject" folder and use "localhost:3000" to visit the website
+
+## ✨ node.js-Newsletter Signup:
+Use node.js to ask for the user's information(first name, last name and email address) and sign them up in the mailchimp server. If everything goes well, user will be directed to the successful webpage and the success message will show up on the screen.
+
+Deploy the local server with Heroku to make the website dynamic.
+
+https://voyage-maison-93014.herokuapp.com
