@@ -49,7 +49,10 @@ https://wjc0326.github.io/Simon_Game/
 
 ## ✨ node.js-Calculator:
 A simple website using node.js to calculate the sum of two ints and the BMI
-** need to import express and body-parser package
+* need to import express and body-parser package
+* download all the files in the "Calculator" folder and use "localhost:3000" to visit the website
 
 ## ✨ node.js-Weather Project:
 A simple website to ask for the user's input (the city name) and show the city's weather condition
+* need to import express and body-parser package
+* download all the files in the "WeatherProject" folder and use "localhost:3000" to visit the website
