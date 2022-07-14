@@ -46,3 +46,9 @@ Use jQuery to build the Simon Game website, including
 * setTimeout
 
 https://wjc0326.github.io/Simon_Game/
+
+## ✨ node.js-Calculator:
+A simple website using node.js to calculate the sum of two ints and the BMI
+
+## ✨ node.js-Weather Project:
+A simple website to ask for the user's input (the city name) and show the city's weather condition
