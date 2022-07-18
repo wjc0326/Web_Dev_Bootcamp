@@ -63,3 +63,10 @@ Use node.js to ask for the user's information(first name, last name and email ad
 Deploy the local server with Heroku to make the website dynamic.
 
 https://voyage-maison-93014.herokuapp.com
+
+## ✨ EJS-ToDo List:
+Use EJS to make the template for normal ToDo List and Work ToDo List. In each ToDo List website, the user can add items by entering and clicking "+" button, and choose to check off or delete some items by clicking "-" button.
+
+Deploy the local server with Heroku to make the website dynamic.
+
+
