@@ -64,8 +64,8 @@ Deploy the local server with Heroku to make the website available from non-local
 
 https://voyage-maison-93014.herokuapp.com
 
-## ✨ EJS-ToDo List:
-Use EJS to make the template for normal ToDo List and Work ToDo List. In each ToDo List website, the user can add items by entering and clicking "+" button, and choose to check off or delete some items by clicking "-" button.
+## ✨ EJS-ToDoList_v1:
+Use EJS to make the template for normal ToDoList and Work ToDoList. In each ToDoList website, the user can add items by entering and clicking "+" button, and choose to check off or delete some items by clicking "-" button.
 
 Deploy the local server with Heroku to make the website available from non-local devices.
 
@@ -77,3 +77,12 @@ Use EJS to make the template for header, footer and compose pages. User can post
 Deploy the local server with Heroku to make the website available from non-local devices.
 
 https://obscure-refuge-21443.herokuapp.com
+
+## ✨ MongoDB & Atlas-ToDoList_v2:
+An improvement to the first version: 
+* __No limitation__ - the website will create or show the list based on the URL content after "/" (eg. if the URL is "/home", the user will be directed to the "Home" ToDoList)
+* __Easy to delete__ - when the user click on the checkbox, the corresponding item will be deleted both from the user interface and the database
+* __Won't lose data__ - use MongoDB to build a database for ToDoList Website, so that data won't be lost when refreshing the website
+* __Available from non-local devices__ - deploy the local server with Heroku, also use Atlas (a multi-cloud database service) to store the data
+
+https://glacial-bastion-27432.herokuapp.com
