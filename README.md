@@ -71,8 +71,8 @@ Deploy the local server with Heroku to make the website available from non-local
 
 https://glacial-bastion-27432.herokuapp.com
 
-## ✨ EJS-Blog Website:
-Use EJS to make the template for header, footer and compose pages. User can post new blog by visiting "/compose" page. In Home page, all blogs are presented but shorten to 100 words to be concise, and by clicking "Read More" hyperlink, user can visit all contents of the specific blog.
+## ✨ EJS-Blog Website_v1:
+Use EJS to make the template for header, footer and compose pages. User can post new blog by visiting "/compose" page. In Home page, all blogs are presented but shorten to 100 words to be concise, and by clicking "Read More" hyperlink (or visiting "/posts/<post name>"), user can see all contents of the specific blog.
 
 Deploy the local server with Heroku to make the website available from non-local devices.
 
@@ -86,3 +86,11 @@ An improvement to the first version:
 * __Available from non-local devices__ - deploy the local server with Heroku, also use Atlas (a multi-cloud database service) to store the data
 
 https://glacial-bastion-27432.herokuapp.com
+
+## ✨ MongoDB & Atlas-Blog Website_v2:
+Use MongoDB to create a database for Blog Website to store the composed posts.
+
+Deploy the local server with Heroku, also use Atlas (a multi-cloud database service) to store the data
+
+https://obscure-refuge-21443.herokuapp.com
+
